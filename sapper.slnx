@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sapper/sapper.vcxproj" Id="5b981613-7dba-4bc7-93c7-fc525472ae54" />
+</Solution>
